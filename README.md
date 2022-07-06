@@ -1,4 +1,4 @@
-# GlobalATM-new
+# GlobalATM
 
 <h2>
   GlobalATM
